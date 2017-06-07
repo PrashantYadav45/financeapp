@@ -1,0 +1,13 @@
+.user-create .user-form
+{
+	overflow: hidden;
+}
+.user-form .form_group_button 
+{
+    overflow: hidden;
+    width: 100%;
+    /*text-align: center;*/
+}
+.user-form .form-group label {
+    font-size: 18px;
+}
